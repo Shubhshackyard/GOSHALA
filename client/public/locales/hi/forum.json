@@ -1,0 +1,79 @@
+{
+  "pageTitle": "सामुदायिक मंच",
+  "tagline": "ज्ञान साझा करें, प्रश्न पूछें और समुदाय से जुड़ें",
+  "newPost": "नया पोस्ट",
+  "search": "पोस्ट खोजें",
+  "categories": {
+    "title": "श्रेणियाँ",
+    "all": "सभी श्रेणियाँ",
+    "general": "सामान्य चर्चा",
+    "organicFarming": "जैविक खेती",
+    "cowCare": "गाय की देखभाल और प्रबंधन",
+    "productInfo": "उत्पाद जानकारी",
+    "marketTrends": "बाजार प्रवृत्तियां",
+    "biodiversity": "जैव विविधता",
+    "technical": "तकनीकी सहायता"
+  },
+  "posts": {
+    "latest": "नवीनतम पोस्ट",
+    "popular": "लोकप्रिय पोस्ट",
+    "sticky": "घोषणाएँ",
+    "noResults": "कोई पोस्ट नहीं मिला",
+    "by": "पोस्ट करने वाले",
+    "on": "दिनांक",
+    "views": "दृश्य",
+    "comments": "टिप्पणियाँ",
+    "likes": "पसंद",
+    "readMore": "और पढ़ें"
+  },
+  "filters": {
+    "sortBy": "क्रमबद्ध करें",
+    "latest": "नवीनतम",
+    "popular": "सबसे लोकप्रिय",
+    "mostCommented": "सबसे अधिक टिप्पणी वाले"
+  },
+  "createPost": {
+    "title": "नया पोस्ट बनाएँ",
+    "titlePlaceholder": "पोस्ट का शीर्षक दर्ज करें",
+    "contentPlaceholder": "अपना पोस्ट यहां लिखें...",
+    "category": "श्रेणी",
+    "tags": "टैग (अल्पविराम से अलग)",
+    "tagsPlaceholder": "जैसे जैविक, मवेशी, खेती",
+    "submit": "पोस्ट करें",
+    "cancel": "रद्द करें",
+    "draft": "ड्राफ्ट के रूप में सहेजें"
+  },
+  "postDetail": {
+    "edit": "संपादित करें",
+    "delete": "हटाएं",
+    "report": "रिपोर्ट करें",
+    "share": "शेयर करें",
+    "comments": "टिप्पणियाँ",
+    "addComment": "एक टिप्पणी जोड़ें",
+    "reply": "उत्तर दें",
+    "edited": "संपादित"
+  },
+  "comment": {
+    "placeholder": "एक टिप्पणी लिखें...",
+    "submit": "जमा करें",
+    "cancel": "रद्द करें",
+    "replies": "जवाब",
+    "showMore": "अधिक जवाब दिखाएं",
+    "hideReplies": "जवाब छुपाएं"
+  },
+  "confirmation": {
+    "deletePostTitle": "पोस्ट हटाएँ",
+    "deletePostMessage": "क्या आप वाकई इस पोस्ट को हटाना चाहते हैं? यह क्रिया पूर्ववत नहीं की जा सकती।",
+    "deleteCommentTitle": "टिप्पणी हटाएँ",
+    "deleteCommentMessage": "क्या आप वाकई इस टिप्पणी को हटाना चाहते हैं? यह क्रिया पूर्ववत नहीं की जा सकती।",
+    "cancel": "रद्द करें",
+    "confirm": "हटाएँ"
+  },
+  "errors": {
+    "titleRequired": "शीर्षक आवश्यक है",
+    "contentRequired": "सामग्री आवश्यक है",
+    "categoryRequired": "श्रेणी आवश्यक है",
+    "commentRequired": "टिप्पणी सामग्री आवश्यक है",
+    "unauthorized": "इस क्रिया को करने के लिए आपको लॉगिन करना होगा"
+  }
+}

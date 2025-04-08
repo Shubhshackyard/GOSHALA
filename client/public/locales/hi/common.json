@@ -1,0 +1,21 @@
+{
+  "appName": "गोशाला",
+  "appFullName": "कृषि और स्थानीय विकास के लिए जैविक एवं टिकाऊ सहायता उत्पन्न करना",
+  "navigation": {
+    "home": "होम",
+    "marketplace": "बाज़ार",
+    "forum": "सामुदायिक मंच",
+    "profile": "प्रोफाइल",
+    "login": "लॉग इन",
+    "register": "रजिस्टर",
+    "logout": "लॉग आउट"
+  },
+  "footer": {
+    "aboutUs": "हमारे बारे में",
+    "contactUs": "संपर्क करें",
+    "privacyPolicy": "गोपनीयता नीति",
+    "termsOfService": "सेवा की शर्तें"
+  },
+  "languageName": "हिंदी",
+  "selectLanguage": "भाषा चुनें"
+}

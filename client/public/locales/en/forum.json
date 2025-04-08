@@ -1,0 +1,85 @@
+{
+  "pageTitle": "Community Forum",
+  "tagline": "Share knowledge, ask questions, and connect with the community",
+  "newPost": "New Post",
+  "search": "Search posts",
+  "backToForum": "Back to Forum",
+  "noComments": "No comments yet. Be the first to comment!",
+  "categories": {
+    "title": "Categories",
+    "all": "All Categories",
+    "general": "General Discussion",
+    "organicFarming": "Organic Farming",
+    "cowCare": "Cow Care & Management",
+    "productInfo": "Product Information",
+    "marketTrends": "Market Trends",
+    "biodiversity": "Biodiversity",
+    "technical": "Technical Support"
+  },
+  "posts": {
+    "latest": "Latest Posts",
+    "popular": "Popular Posts",
+    "sticky": "Announcements",
+    "noResults": "No posts found",
+    "by": "Posted by",
+    "on": "on",
+    "views": "views",
+    "comments": "comments",
+    "likes": "likes",
+    "readMore": "Read More"
+  },
+  "filters": {
+    "sortBy": "Sort by",
+    "latest": "Latest",
+    "popular": "Most Popular",
+    "mostCommented": "Most Commented"
+  },
+  "createPost": {
+    "title": "Create New Post",
+    "subtitle": "Share your knowledge with the community",
+    "titlePlaceholder": "Enter post title",
+    "contentPlaceholder": "Write your post here...",
+    "category": "Category",
+    "tags": "Tags (comma separated)",
+    "tagsPlaceholder": "e.g. organic, cattle, farming",
+    "submit": "Post",
+    "cancel": "Cancel",
+    "draft": "Save as Draft"
+  },
+  "postDetail": {
+    "edit": "Edit",
+    "delete": "Delete",
+    "report": "Report",
+    "share": "Share",
+    "comments": "Comments",
+    "addComment": "Add a comment",
+    "reply": "Reply",
+    "edited": "edited",
+    "like": "Like",
+    "unlike": "Unlike"
+  },
+  "comment": {
+    "placeholder": "Write a comment...",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "replies": "replies",
+    "showMore": "Show more replies",
+    "hideReplies": "Hide replies"
+  },
+  "confirmation": {
+    "deletePostTitle": "Delete Post",
+    "deletePostMessage": "Are you sure you want to delete this post? This action cannot be undone.",
+    "deleteCommentTitle": "Delete Comment",
+    "deleteCommentMessage": "Are you sure you want to delete this comment? This action cannot be undone.",
+    "cancel": "Cancel",
+    "confirm": "Delete"
+  },
+  "errors": {
+    "titleRequired": "Title is required",
+    "contentRequired": "Content is required",
+    "categoryRequired": "Category is required",
+    "commentRequired": "Comment content is required",
+    "unauthorized": "You must be logged in to perform this action",
+    "postNotFound": "Post not found"
+  }
+}

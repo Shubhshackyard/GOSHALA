@@ -1,0 +1,46 @@
+{
+  "title": "GOSHALA",
+  "subtitle": "Connecting Consumers with Authentic Gaushala Products",
+  "description": "Discover natural, ethical products while supporting traditional cow shelters across India.",
+  
+  "buttons": {
+    "exploreProducts": "Explore Products",
+    "joinCommunity": "Join Community"
+  },
+  
+  "features": {
+    "title": "Why Choose GOSHALA",
+    "directFromProducers": {
+      "title": "Direct from Producers",
+      "description": "All products are sourced directly from verified gauśālās and organic farmers."
+    },
+    "communityKnowledge": {
+      "title": "Community Knowledge",
+      "description": "Share and gain insights from experts and fellow farmers."
+    },
+    "supportLocal": {
+      "title": "Support Local",
+      "description": "Help local farmers and traditional cow shelters sustain their operations."
+    }
+  },
+  
+  "testimonials": {
+    "title": "What Our Community Says",
+    "farmer1": {
+      "name": "Ramesh Kumar",
+      "location": "Rajasthan",
+      "quote": "Since joining GOSHALA, our small gaushala has been able to reach customers across the country."
+    },
+    "consumer1": {
+      "name": "Priya Sharma",
+      "location": "Bengaluru",
+      "quote": "I love knowing that my purchases directly support authentic cow shelters and sustainable practices."
+    }
+  },
+  
+  "cta": {
+    "title": "Join the GOSHALA Movement",
+    "description": "Create an account to start exploring authentic products or register your gaushala to reach conscious consumers.",
+    "button": "Sign Up Today"
+  }
+}
