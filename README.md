@@ -1,6 +1,6 @@
 # GOSHALA - Cow Shelter Management System
 
-![GOSHALA Logo](https://placeholder.com/logo.png)
+![GOSHALA Logo](https://github.com/Shubhshackyard/GOSHALA/blob/main/client/src/assets/images/goshala-logo.png)
 
 GOSHALA (Generating Organic Sustainable Help for Agriculture and Local Advancement) is a platform that connects conscious consumers with authentic gaushala products. The project aims to support traditional cow shelters across India by creating a transparent marketplace and knowledge-sharing community.
 
@@ -137,7 +137,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - All the traditional gaushalas providing valuable inputs
 - Our beta testers and community members
-- [Any organizations or individuals who supported the project]
 
 ---
 
